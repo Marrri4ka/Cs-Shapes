@@ -9,11 +9,11 @@ namespace Shapes.TestTools
     [TestMethod]
     public void Rectangle_GetArea_AreaOfRectangle()
     { //Arrange
-      Rectangle newRectangle = new Rectangle(4,4);
+      Rectangle newRectangle = new Rectangle(4,4); // створюю обєкт викликаючи конструктор і передаю дані,які хочу тестувати
       // Act
-      int result = newRectangle.GetArea();
+      int result = newRectangle.GetArea(); // 
       // Assert
-      Assert.AreEqual (result, 16);
+      Assert.AreEqual (result, 16); //
     }
     [TestMethod]
     public void Rectangle_IsSquare_True()

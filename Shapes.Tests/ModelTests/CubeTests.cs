@@ -24,7 +24,7 @@ namespace Shapes.Tests
       Rectangle newRectangle = new Rectangle(4,4);
       Cube newCube = new Cube(newRectangle);
       // Act
-
+ int result = newCube.GetSurfaceArea();
       Assert.AreEqual(result, 96);
     }
   }

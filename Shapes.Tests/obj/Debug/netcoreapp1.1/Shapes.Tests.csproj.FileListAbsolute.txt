@@ -1,0 +1,14 @@
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Shapes.Tests.deps.json
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Shapes.Tests.runtimeconfig.json
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Shapes.Tests.runtimeconfig.dev.json
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/Shapes.Tests.csproj.CoreCompileInputs.cache
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/Shapes.Tests.AssemblyInfo.cs
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Shapes.Tests.dll
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Shapes.Tests.pdb
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Shapes.dll
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp1.1/Shapes.pdb
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/Shapes.Tests.dll
+/Users/mariiastashuk/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp1.1/Shapes.Tests.pdb
